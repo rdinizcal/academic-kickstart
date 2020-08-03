@@ -27,14 +27,14 @@ interests:
 education:
   courses:
   - course: PhD in Software Engineering
-    institution: Chalmers
-    year: Ongoing
+    institution: Chalmers University of Technology
+    year: (2020 - present)
   - course: Masters in Informatics
     institution: University of Brasilia
-    year: 2019
+    year: (2018-2019)
   - course: BSc in Mechatronics Engineering
     institution: University of Brasilia
-    year: 2017
+    year: (2012 - 2017)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
