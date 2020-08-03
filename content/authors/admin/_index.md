@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Sponsored by WASP, my current research interests lay on understanding the engineering process for increasing autonomicity through self-adaptation of software based-systems. Supervised by Prof. Patrizio Pelliccione and  Prof. Thorsten Berger we concretely investigate themes from a continuum that varies from mission specification for multi-robot scenarios until test generation for autonomous driving vehicles.
+Sponsored by WASP, my current research interests lay on understanding the engineering process for increasing autonomicity through self-adaptation of software-based systems. Supervised by Prof. Patrizio Pelliccione and  Prof. Thorsten Berger we concretely investigate themes from a continuum that varies from mission specification for multi-robot scenarios until test generation for autonomous driving vehicles.
