@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: Doctoral Student
 
 # Organizations/Affiliations
 organizations:
@@ -23,15 +23,16 @@ bio: Interested in Software Engineering for Self-Adaptive Systems
 interests:
 - Software Engineering
 - Self-Adaptive Systems
+- Robotics
 
 education:
   courses:
   - course: Masters in Informatics
     institution: University of Brasilia
-    year: (2018-2019)
+    year: 2019
   - course: BSc in Mechatronics Engineering
     institution: University of Brasilia
-    year: (2012 - 2017)
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
