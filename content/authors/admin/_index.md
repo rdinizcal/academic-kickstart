@@ -21,14 +21,11 @@ organizations:
 bio: Interested in Software Engineering for Self-Adaptive Systems
 
 interests:
-- Engineering Software with Self-Adaptive capabilities
-- Cyber-Physical Systems
+- Software Engineering
+- Self-Adaptive Systems
 
 education:
   courses:
-  - course: PhD in Software Engineering
-    institution: Chalmers University of Technology
-    year: (2020 - present)
   - course: Masters in Informatics
     institution: University of Brasilia
     year: (2018-2019)
