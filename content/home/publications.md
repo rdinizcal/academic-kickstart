@@ -71,4 +71,4 @@ subtitle = ""
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
 
-{{< cite page="https://ieeexplore.ieee.org/abstract/document/8595401" view="4" >}}
+{{< cite publication="https://ieeexplore.ieee.org/abstract/document/8595401" view="3" >}}
