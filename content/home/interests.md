@@ -6,7 +6,6 @@ active = true  # Activate this widget? true/false
 weight = 21  # Order that this section will appear in.
 
 title = ""
-subtitle = "interests"
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
