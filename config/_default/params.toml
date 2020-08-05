@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "firstname.lastname(at)chalmers.se"
+email = "ricardo.caldas@chalmers.se"
 phone = "+46 31 772 17 57 "
 
 # Address
