@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Masters in Informatics
+  - course: MSc in Informatics
     institution: University of Brasilia
     year: 2019
   - course: BSc in Mechatronics Engineering
